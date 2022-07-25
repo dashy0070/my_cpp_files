@@ -1,2 +1,2 @@
 # my_cpp_files
-Sample C++ Programs
+This contains my practice C++ programs covering various concepts of modern C++.
